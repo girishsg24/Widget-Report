@@ -8,7 +8,7 @@ using namespace std;
 
 class WidgetReport
 {
-    /***** Complete this class. *****/
+
     
 public:
     WidgetReport(ifstream& in);  // constructor
